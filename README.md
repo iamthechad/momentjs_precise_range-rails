@@ -2,7 +2,9 @@
 
 This gem supplies the [moment-precise-range](https://github.com/codebox/moment-precise-range) plugin for use with [momentjs-rails](https://github.com/derekprior/momentjs-rails) in Rails.
 
-(momentjs-rails wraps the [Moment.js](http://momentjs.com/) library in a Rails engine.)
+`momentjs-rails` **must** be installed to use this plugin.
+
+(`momentjs-rails` wraps the [Moment.js](http://momentjs.com/) library in a Rails engine.)
 
 [moment-precise-range](https://github.com/codebox/moment-precise-range) is a MomentJS plugin for precisely displaying time ranges in a human readable format.
 
