@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/momentjs_precise_range-rails.svg)](https://badge.fury.io/rb/momentjs_precise_range-rails)
+
 # momentjs_precise_range-rails
 
 This gem supplies the [moment-precise-range](https://github.com/codebox/moment-precise-range) plugin for use with [momentjs-rails](https://github.com/derekprior/momentjs-rails) in Rails.
