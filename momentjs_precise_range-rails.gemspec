@@ -3,12 +3,13 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "momentjs_precise_range-rails"
   s.version     = "1.0.0"
+  s.email       = "cjohnston@megatome.com"
   s.authors     = ["Chad Johnston"]
   s.homepage    = "https://github.com/iamthechad/momentjs_precise_range-rails"
   s.summary     = "The MomentJS Precise Range plugin in for Rails."
   s.license     = "MIT"
   s.description = <<-EOF
-    Description
+    Supplies the moment-precise-range plugin for use with momentjs-rails in Rails.
   EOF
 
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
