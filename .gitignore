@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+
+.rake_tasks~
+*.gem
+Gemfile.lock
+test/dummy/log
+test/dummy/tmp
+.DS_Store
+pkg/
